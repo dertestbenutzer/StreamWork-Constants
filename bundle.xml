@@ -10,6 +10,7 @@
       <Require javascript="https://github.com/dertestbenutzer/StreamWork-Constants/raw/master/javascript/constants.js"/>
       <User email="testuser@mydomain.com"/>    
       <Icon>https://github.com/dertestbenutzer/StreamWork-Constants/raw/master/images/documentation.png</Icon>
+      <User email="simon.elsbrock@sap.com"/>
       <InitialData></InitialData>
       <IndexableTerms></IndexableTerms>
   </ModulePrefs>
