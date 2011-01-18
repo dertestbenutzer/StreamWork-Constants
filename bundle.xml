@@ -1,0 +1,16 @@
+<Module>
+  <ModulePrefs
+    name="com.streamwork.using_constants"
+    title="Using runtime variables"
+    description="Demonstrates how to use the built in StreamWork functions."
+    author="Test User"
+    author_email="testuser@mydomain.com"
+    thumbnail="http://my-dev-env.mydomain.com/images/documentation.png">  
+      <Category name="Test methods"/>
+      <Require javascript="http://my-dev-env.mydomain.com/javascript/constants"/>
+      <User email="testuser@mydomain.com"/>    
+      <Icon>http://my-dev-env.mydomain.com/images/documentation.png</Icon>
+      <InitialData></InitialData>
+      <IndexableTerms></IndexableTerms>
+  </ModulePrefs>
+</Module>
