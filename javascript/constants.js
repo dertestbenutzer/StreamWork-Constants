@@ -1,4 +1,4 @@
-streamwork.module("com.streamwork.using_constants").methodClient = function (elementId, initialData) 
+streamwork.module("der.test.benutzer.googlemail.using_constants").methodClient = function (elementId, initialData) 
 {
     var div = null;    
 	var runningHTML = "";
