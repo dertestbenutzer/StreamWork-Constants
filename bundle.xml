@@ -7,7 +7,7 @@
     author_email="testuser@mydomain.com"
     thumbnail="https://github.com/dertestbenutzer/StreamWork-Constants/raw/master/images/documentation.png">  
       <Category name="Test methods"/>
-      <Require javascript="http://my-dev-env.mydomain.com/javascript/constants"/>
+      <Require javascript="https://github.com/dertestbenutzer/StreamWork-Constants/raw/master/javascript/constants.js"/>
       <User email="testuser@mydomain.com"/>    
       <Icon>https://github.com/dertestbenutzer/StreamWork-Constants/raw/master/images/documentation.png</Icon>
       <InitialData></InitialData>
